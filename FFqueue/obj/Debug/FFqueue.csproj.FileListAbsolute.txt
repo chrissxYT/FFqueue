@@ -1,0 +1,2 @@
+C:\Users\chrissicx\AppData\Local\Temporary Projects\FFqueue\obj\Debug\FFqueue.csprojAssemblyReference.cache
+C:\Users\chrissicx\AppData\Local\Temporary Projects\FFqueue\obj\Debug\FFqueue.csproj.CoreCompileInputs.cache
